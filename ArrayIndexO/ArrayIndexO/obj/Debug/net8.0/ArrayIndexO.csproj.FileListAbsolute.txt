@@ -1,0 +1,14 @@
+C:\C#\ArrayIndexO\ArrayIndexO\bin\Debug\net8.0\ArrayIndexO.exe
+C:\C#\ArrayIndexO\ArrayIndexO\bin\Debug\net8.0\ArrayIndexO.deps.json
+C:\C#\ArrayIndexO\ArrayIndexO\bin\Debug\net8.0\ArrayIndexO.runtimeconfig.json
+C:\C#\ArrayIndexO\ArrayIndexO\bin\Debug\net8.0\ArrayIndexO.dll
+C:\C#\ArrayIndexO\ArrayIndexO\bin\Debug\net8.0\ArrayIndexO.pdb
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ArrayIndexO.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ArrayIndexO.AssemblyInfoInputs.cache
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ArrayIndexO.AssemblyInfo.cs
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ArrayIndexO.csproj.CoreCompileInputs.cache
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ArrayIndexO.dll
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\refint\ArrayIndexO.dll
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ArrayIndexO.pdb
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ArrayIndexO.genruntimeconfig.cache
+C:\C#\ArrayIndexO\ArrayIndexO\obj\Debug\net8.0\ref\ArrayIndexO.dll

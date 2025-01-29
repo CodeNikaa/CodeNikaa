@@ -1,0 +1,14 @@
+C:\C#\Array-Exercise\Array-Exercise\bin\Debug\net8.0\Array-Exercise.exe
+C:\C#\Array-Exercise\Array-Exercise\bin\Debug\net8.0\Array-Exercise.deps.json
+C:\C#\Array-Exercise\Array-Exercise\bin\Debug\net8.0\Array-Exercise.runtimeconfig.json
+C:\C#\Array-Exercise\Array-Exercise\bin\Debug\net8.0\Array-Exercise.dll
+C:\C#\Array-Exercise\Array-Exercise\bin\Debug\net8.0\Array-Exercise.pdb
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\Array-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\Array-Exercise.AssemblyInfoInputs.cache
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\Array-Exercise.AssemblyInfo.cs
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\Array-Exercise.csproj.CoreCompileInputs.cache
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\Array-Exercise.dll
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\refint\Array-Exercise.dll
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\Array-Exercise.pdb
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\Array-Exercise.genruntimeconfig.cache
+C:\C#\Array-Exercise\Array-Exercise\obj\Debug\net8.0\ref\Array-Exercise.dll

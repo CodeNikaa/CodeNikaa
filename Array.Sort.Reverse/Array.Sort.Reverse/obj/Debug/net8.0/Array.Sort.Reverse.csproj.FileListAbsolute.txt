@@ -1,0 +1,14 @@
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\bin\Debug\net8.0\Array.Sort.Reverse.exe
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\bin\Debug\net8.0\Array.Sort.Reverse.deps.json
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\bin\Debug\net8.0\Array.Sort.Reverse.runtimeconfig.json
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\bin\Debug\net8.0\Array.Sort.Reverse.dll
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\bin\Debug\net8.0\Array.Sort.Reverse.pdb
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\Array.Sort.Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\Array.Sort.Reverse.AssemblyInfoInputs.cache
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\Array.Sort.Reverse.AssemblyInfo.cs
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\Array.Sort.Reverse.csproj.CoreCompileInputs.cache
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\Array.Sort.Reverse.dll
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\refint\Array.Sort.Reverse.dll
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\Array.Sort.Reverse.pdb
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\Array.Sort.Reverse.genruntimeconfig.cache
+C:\C#\Array.Sort.Reverse\Array.Sort.Reverse\obj\Debug\net8.0\ref\Array.Sort.Reverse.dll
