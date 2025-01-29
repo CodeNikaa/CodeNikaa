@@ -1,0 +1,14 @@
+C:\C#\Numeric Data Types\bin\Debug\net9.0\Numeric Data Types.exe
+C:\C#\Numeric Data Types\bin\Debug\net9.0\Numeric Data Types.deps.json
+C:\C#\Numeric Data Types\bin\Debug\net9.0\Numeric Data Types.runtimeconfig.json
+C:\C#\Numeric Data Types\bin\Debug\net9.0\Numeric Data Types.dll
+C:\C#\Numeric Data Types\bin\Debug\net9.0\Numeric Data Types.pdb
+C:\C#\Numeric Data Types\obj\Debug\net9.0\Numeric Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Numeric Data Types\obj\Debug\net9.0\Numeric Data Types.AssemblyInfoInputs.cache
+C:\C#\Numeric Data Types\obj\Debug\net9.0\Numeric Data Types.AssemblyInfo.cs
+C:\C#\Numeric Data Types\obj\Debug\net9.0\Numeric Data Types.csproj.CoreCompileInputs.cache
+C:\C#\Numeric Data Types\obj\Debug\net9.0\Numeric Data Types.dll
+C:\C#\Numeric Data Types\obj\Debug\net9.0\refint\Numeric Data Types.dll
+C:\C#\Numeric Data Types\obj\Debug\net9.0\Numeric Data Types.pdb
+C:\C#\Numeric Data Types\obj\Debug\net9.0\Numeric Data Types.genruntimeconfig.cache
+C:\C#\Numeric Data Types\obj\Debug\net9.0\ref\Numeric Data Types.dll
