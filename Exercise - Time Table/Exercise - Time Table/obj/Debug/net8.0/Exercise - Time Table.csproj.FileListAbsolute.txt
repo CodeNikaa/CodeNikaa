@@ -1,0 +1,14 @@
+C:\C#\Exercise - Time Table\Exercise - Time Table\bin\Debug\net8.0\Exercise - Time Table.exe
+C:\C#\Exercise - Time Table\Exercise - Time Table\bin\Debug\net8.0\Exercise - Time Table.deps.json
+C:\C#\Exercise - Time Table\Exercise - Time Table\bin\Debug\net8.0\Exercise - Time Table.runtimeconfig.json
+C:\C#\Exercise - Time Table\Exercise - Time Table\bin\Debug\net8.0\Exercise - Time Table.dll
+C:\C#\Exercise - Time Table\Exercise - Time Table\bin\Debug\net8.0\Exercise - Time Table.pdb
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\Exercise - Time Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\Exercise - Time Table.AssemblyInfoInputs.cache
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\Exercise - Time Table.AssemblyInfo.cs
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\Exercise - Time Table.csproj.CoreCompileInputs.cache
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\Exercise - Time Table.dll
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\refint\Exercise - Time Table.dll
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\Exercise - Time Table.pdb
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\Exercise - Time Table.genruntimeconfig.cache
+C:\C#\Exercise - Time Table\Exercise - Time Table\obj\Debug\net8.0\ref\Exercise - Time Table.dll

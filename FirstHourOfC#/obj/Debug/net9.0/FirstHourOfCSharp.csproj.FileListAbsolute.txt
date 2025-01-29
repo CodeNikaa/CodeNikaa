@@ -1,0 +1,14 @@
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\FirstHourOfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\FirstHourOfCSharp.AssemblyInfoInputs.cache
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\FirstHourOfCSharp.AssemblyInfo.cs
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\FirstHourOfCSharp.csproj.CoreCompileInputs.cache
+C:\C#\FirstHourOfC#\bin\Debug\net9.0\FirstHourOfCSharp.exe
+C:\C#\FirstHourOfC#\bin\Debug\net9.0\FirstHourOfCSharp.deps.json
+C:\C#\FirstHourOfC#\bin\Debug\net9.0\FirstHourOfCSharp.runtimeconfig.json
+C:\C#\FirstHourOfC#\bin\Debug\net9.0\FirstHourOfCSharp.dll
+C:\C#\FirstHourOfC#\bin\Debug\net9.0\FirstHourOfCSharp.pdb
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\FirstHourOfCSharp.dll
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\refint\FirstHourOfCSharp.dll
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\FirstHourOfCSharp.pdb
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\FirstHourOfCSharp.genruntimeconfig.cache
+C:\C#\FirstHourOfC#\obj\Debug\net9.0\ref\FirstHourOfCSharp.dll

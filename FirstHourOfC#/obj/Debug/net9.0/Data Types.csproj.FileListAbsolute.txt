@@ -1,0 +1,14 @@
+C:\C#\Data Types\obj\Debug\net9.0\Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Data Types\obj\Debug\net9.0\Data Types.AssemblyInfoInputs.cache
+C:\C#\Data Types\obj\Debug\net9.0\Data Types.AssemblyInfo.cs
+C:\C#\Data Types\obj\Debug\net9.0\Data Types.csproj.CoreCompileInputs.cache
+C:\C#\Data Types\bin\Debug\net9.0\Data Types.exe
+C:\C#\Data Types\bin\Debug\net9.0\Data Types.deps.json
+C:\C#\Data Types\bin\Debug\net9.0\Data Types.runtimeconfig.json
+C:\C#\Data Types\bin\Debug\net9.0\Data Types.dll
+C:\C#\Data Types\bin\Debug\net9.0\Data Types.pdb
+C:\C#\Data Types\obj\Debug\net9.0\Data Types.dll
+C:\C#\Data Types\obj\Debug\net9.0\refint\Data Types.dll
+C:\C#\Data Types\obj\Debug\net9.0\Data Types.pdb
+C:\C#\Data Types\obj\Debug\net9.0\Data Types.genruntimeconfig.cache
+C:\C#\Data Types\obj\Debug\net9.0\ref\Data Types.dll
