@@ -1,0 +1,14 @@
+C:\C#\Verbatim string literal\Verbatim string literal\bin\Debug\net8.0\Verbatim string literal.exe
+C:\C#\Verbatim string literal\Verbatim string literal\bin\Debug\net8.0\Verbatim string literal.deps.json
+C:\C#\Verbatim string literal\Verbatim string literal\bin\Debug\net8.0\Verbatim string literal.runtimeconfig.json
+C:\C#\Verbatim string literal\Verbatim string literal\bin\Debug\net8.0\Verbatim string literal.dll
+C:\C#\Verbatim string literal\Verbatim string literal\bin\Debug\net8.0\Verbatim string literal.pdb
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\Verbatim string literal.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\Verbatim string literal.AssemblyInfoInputs.cache
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\Verbatim string literal.AssemblyInfo.cs
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\Verbatim string literal.csproj.CoreCompileInputs.cache
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\Verbatim string literal.dll
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\refint\Verbatim string literal.dll
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\Verbatim string literal.pdb
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\Verbatim string literal.genruntimeconfig.cache
+C:\C#\Verbatim string literal\Verbatim string literal\obj\Debug\net8.0\ref\Verbatim string literal.dll

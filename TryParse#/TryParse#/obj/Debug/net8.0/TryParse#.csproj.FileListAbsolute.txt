@@ -1,0 +1,14 @@
+C:\C#\TryParse#\TryParse#\bin\Debug\net8.0\TryParse#.exe
+C:\C#\TryParse#\TryParse#\bin\Debug\net8.0\TryParse#.deps.json
+C:\C#\TryParse#\TryParse#\bin\Debug\net8.0\TryParse#.runtimeconfig.json
+C:\C#\TryParse#\TryParse#\bin\Debug\net8.0\TryParse#.dll
+C:\C#\TryParse#\TryParse#\bin\Debug\net8.0\TryParse#.pdb
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\TryParse#.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\TryParse#.AssemblyInfoInputs.cache
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\TryParse#.AssemblyInfo.cs
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\TryParse#.csproj.CoreCompileInputs.cache
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\TryParse#.dll
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\refint\TryParse#.dll
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\TryParse#.pdb
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\TryParse#.genruntimeconfig.cache
+C:\C#\TryParse#\TryParse#\obj\Debug\net8.0\ref\TryParse#.dll
