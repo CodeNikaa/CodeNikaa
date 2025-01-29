@@ -1,0 +1,14 @@
+C:\C#\String iteration looping\String iteration looping\bin\Debug\net8.0\String iteration looping.exe
+C:\C#\String iteration looping\String iteration looping\bin\Debug\net8.0\String iteration looping.deps.json
+C:\C#\String iteration looping\String iteration looping\bin\Debug\net8.0\String iteration looping.runtimeconfig.json
+C:\C#\String iteration looping\String iteration looping\bin\Debug\net8.0\String iteration looping.dll
+C:\C#\String iteration looping\String iteration looping\bin\Debug\net8.0\String iteration looping.pdb
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\String iteration looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\String iteration looping.AssemblyInfoInputs.cache
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\String iteration looping.AssemblyInfo.cs
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\String iteration looping.csproj.CoreCompileInputs.cache
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\String iteration looping.dll
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\refint\String iteration looping.dll
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\String iteration looping.pdb
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\String iteration looping.genruntimeconfig.cache
+C:\C#\String iteration looping\String iteration looping\obj\Debug\net8.0\ref\String iteration looping.dll
